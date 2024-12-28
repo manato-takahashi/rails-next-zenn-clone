@@ -1,2 +1,2 @@
-FROM node:19.4.0
+FROM node:20.18.1
 WORKDIR /app
